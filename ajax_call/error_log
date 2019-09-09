@@ -1,0 +1,12 @@
+[14-Jul-2019 17:28:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_to_cart() on null in /home2/bitechxc/public_html/fitpromain/user/ajax_call/product_add_to_cart.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/bitechxc/public_html/fitpromain/user/ajax_call/product_add_to_cart.php on line 9
+[14-Jul-2019 17:29:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_to_cart() on null in /home2/bitechxc/public_html/fitpromain/user/ajax_call/product_add_to_cart.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/bitechxc/public_html/fitpromain/user/ajax_call/product_add_to_cart.php on line 9
+[14-Jul-2019 17:29:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function add_to_cart() on null in /home2/bitechxc/public_html/fitpromain/user/ajax_call/product_add_to_cart.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/bitechxc/public_html/fitpromain/user/ajax_call/product_add_to_cart.php on line 9
