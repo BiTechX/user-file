@@ -22,7 +22,7 @@
                 <i class="flaticon-shopping-cart white" style="font-size:32px;margin-top:5px" ><a class="" href="https://fitpro.bitechx.com/cart"></a></i>
                 <span class="active-point secondary-color1-background white">3</span>
         </div>
-        <a class="navbar-brand padding-15px-vertical ml-auto" href="homepage.php" style="margin-right:0px;"><img src="https://fitprobizlaunch.com/wp-content/uploads/2019/04/logo.png" style="width:40px;"></a>
+        <a class="navbar-brand padding-15px-vertical ml-auto" href="homepage.php" style="margin-right:0px;"><img src="https://intensefitnessacademy.com/wp-content/uploads/2019/09/logo.png" style="width:40px;"></a>
         
     </div> 
   <!--  <a class="navbar-brand padding-15px-vertical" href="homepage.php" style="margin-right:0px;"><img src="https://fitprobizlaunch.com/wp-content/uploads/2019/04/logo.png" style="width:40px;"></a> -->
@@ -52,7 +52,7 @@
                     <a class="nav-link" href="<?php echo $url.'settings_1_profile.php';?>">Settings</a>
                 </li>
                 <li class="nav-item white text-center">
-                    <a class="nav-link" href="https://fitprobizlaunch.com/logout">Signout</a>
+                    <a class="nav-link" href='<?php echo site_url();?>/logout'>Signout</a>
                 </li>
                 <!--
                 <li class="nav-item">

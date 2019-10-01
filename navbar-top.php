@@ -16,7 +16,7 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="homepage.php"><img src="https://fitprobizlaunch.com/wp-content/uploads/2019/06/logo_full.png"></a>
+    <a class="navbar-brand" href="homepage.php"><img src="https://intensefitnessacademy.com/wp-content/uploads/2019/09/logo.png"></a>
 
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">

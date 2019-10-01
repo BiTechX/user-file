@@ -83,7 +83,7 @@
                 </a>
             </li>
             <li >
-                <a href="https://fitprobizlaunch.com/logout">
+                <a href="<?php echo site_url();?>/logout">
     
                    
                     
